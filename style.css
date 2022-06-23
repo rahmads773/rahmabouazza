@@ -324,11 +324,6 @@ header .menu-icon.active span:last-child{
   align-items: center;
   position: relative;
 }
-@media (min-height:767px) {
-  .landing{
-    height: 50vh;
-  }
-}
 .landing i{
   position: absolute;
   right: 13%;
